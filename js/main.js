@@ -38,6 +38,7 @@
             smartBackspace: false,
             loop: true
         });
+    
     }
 
 
